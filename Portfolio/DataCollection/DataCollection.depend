@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1543703553 source:c:\softwareengineering\datacollection\main.cpp
+1543849753 source:c:\softwareengineering\datacollection\main.cpp
 	<iostream>
 	<string>
 	<queue>
 	<windows.h>
+	<ctime>
+	<sstream>
 

@@ -68,10 +68,12 @@ public:
     void outputDataQueue()
     {
         cout<<"Queue limit reached!!!!Displaying the data!!!!"<<endl;
+        Sleep(1000);
         while (!dataQueue.empty())
         {
             cout<<dataQueue.front()<<endl;
             dataQueue.pop();
+            Sleep(1000);
         }
     }
 };
