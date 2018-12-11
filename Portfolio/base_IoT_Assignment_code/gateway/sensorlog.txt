@@ -1,0 +1,8 @@
+<readings><reading><time>Sun Dec 09 10:54:05 2018
+</time><temperature>11</temperature></reading><reading><time>Sun Dec 09 10:54:35 2018
+</time><temperature>17</temperature></reading><reading><time>Sun Dec 09 10:55:05 2018
+</time><temperature>14</temperature></reading><reading><time>Sun Dec 09 10:55:35 2018
+</time><temperature>10</temperature></reading><reading><time>Sun Dec 09 10:56:05 2018
+</time><temperature>19</temperature></reading><reading><time>Sun Dec 09 10:56:35 2018
+</time><temperature>14</temperature></reading><reading><time>Sun Dec 09 10:57:05 2018
+</time><temperature>18</temperature></reading></readings>
