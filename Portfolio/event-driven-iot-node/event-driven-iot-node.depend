@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544568981 source:c:\program files\portablegit\b00123102softwareengineering\portfolio\event-driven-iot-node\main.cpp
+	<iostream>
+	<windows.h>
+

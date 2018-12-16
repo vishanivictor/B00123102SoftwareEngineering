@@ -20,13 +20,12 @@ string IntToString(int);
 int main(int argc, char *argv[])
 {
     string sensorData = "<readings>";
-    for(int i=0; i<7; i++)
+    for(int i=0; i<5; i++)
     {
         time_t now = time(0);
-        int randomVal = rand() % (20 - 10) + 10;
+        int randomVal = rand() % (15 - 10) + 10;
         sensorData = sensorData + "<reading><time>"+ctime(&now)+
                      "</time><temperature>"+IntToString(randomVal)+"</temperature></reading>";
-        cout<<sensorData<<endl;
         Sleep(30000);
     }
     sensorData+="</readings>";
